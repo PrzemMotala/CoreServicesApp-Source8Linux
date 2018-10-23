@@ -7,6 +7,7 @@ sh compile.bat && sh run.bat
 ```
 
 Features include:
+- GUI created in JavaFX,
 - loading .csv and .xml files with orders (formatting specified in JavaDoc),
 - saving data to in-memory H2 database,
 - creating reports based on loaded orders,
