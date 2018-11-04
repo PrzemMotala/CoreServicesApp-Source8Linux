@@ -3,7 +3,7 @@ Project created for the Core Services bootcamp.
 
 To run the application, type:
 ```
-sh compile.bat && sh run.bat
+sh compile.sh && sh run.sh
 ```
 
 Features include:
